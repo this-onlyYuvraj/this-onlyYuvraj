@@ -1,12 +1,12 @@
-<p align="center">
+![typing cat](https://github.com/user-attachments/assets/fb73eb84-8179-46f9-af75-dc276486dfe1)<p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=700&center=true&vCenter=true&width=500&lines=Hi+babe!;+I'm+Yuvraj;+Fullstack+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=700&center=true&vCenter=true&width=500&lines=Hey+babe!;+I'm+Yuvraj;+Fullstack+Developer"
     alt="Typing SVG"
   />
 </p>
 
 <p>
-  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/b0/fe/e3/b0fee33d7a8e955e72da5d06e6713e43.gif">
+  <img align="right" alt="Coding" width="350" src="/">
 </p>
 
 **<h3 align="left">About me<h3/>**
