@@ -6,7 +6,7 @@
 </p>
 
 <p>
-  <img align="right" alt="Coding" width="350" src="/">
+  <img align="right" alt="Coding" width="350" src="https://github.com/this-onlyYuvraj/this-onlyYuvraj/blob/main/typing%20cat.gif">
 </p>
 
 **<h3 align="left">About me<h3/>**
