@@ -1,13 +1,60 @@
-<h1 align="center">Hi 👋, I'm Yuvraj</h1>
-<h3 align="center">A passionate Full Stack Developer from India</h3>
-
-- 📫 How to reach me **this.is.onlyyuvraj@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/www.linkedin.com/in/dev-yuvraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/dev-yuvraj" height="30" width="40" /></a>
+<p align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=700&center=true&vCenter=true&width=500&lines=Hi+babe!;+I'm+Yuvraj;+Fullstack+Developer"
+    alt="Typing SVG"
+  />
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nextjs.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+<p>
+  <img align="right" alt="Coding" width="350" src="https://i.pinimg.com/originals/b0/fe/e3/b0fee33d7a8e955e72da5d06e6713e43.gif">
+</p>
 
+**<h3 align="left">About me<h3/>**
+
+- 🥀 **JUST LEARNING**
+- 💬 Ask me about(plz don't ask): **React, TypeScript, JavaScript, Nextjs**
+
+<br/>
+<br/>
+<br/>
+<br/>
+
+**<h1 align="center">Let's Connect</h1>**
+[![Email](https://img.shields.io/badge/Email-this.is.onlyyuvraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:this.is.onlyyuvraj@gmail.com)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yuvraj/)
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Any%20century%20now-000000?style=for-the-badge&logo=firefox&logoColor=white)](/)
+
+
+---
+
+**<h1 align="center">Tech Stack</h1>**
+
+## Programming Languages
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript&perline=6" />
+
+## Frameworks
+<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs&perline=6" />
+
+## Database 
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql&perline=6" />
+
+
+## Tools 
+<img src="https://skillicons.dev/icons?i=vscode,git,github,wordpress&perline=6" />
+
+---
+
+### 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=this-onlyyuvraj&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-onlyyuvraj&theme=radical" width="47%" />
+</p>
+
+---
+
+### 📊 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-onlyyuvraj&layout=compact&theme=radical" width="45%" />
+</p>
