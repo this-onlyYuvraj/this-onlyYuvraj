@@ -1,29 +1,23 @@
 <p align="center">
   <img src="https://github.com/user-attachments/assets/fb73eb84-8179-46f9-af75-dc276486dfe1" alt="Typing Cat" />
 </p>
-
 <p align="center">
   <img
     src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=700&center=true&vCenter=true&width=500&lines=Hey+babe!;+I'm+Yuvraj;+Fullstack+Developer"
     alt="Typing SVG"
   />
 </p>
-<table cellspacing="0" cellpadding="0">
-  <tr>
-    <td valign="middle">
-      <h3>About me</h3>
-      <ul>
-        <li>🥀 <strong>JUST LEARNING</strong></li>
-        <li>💬 Ask me about (plz don't ask): <strong>React, TypeScript, JavaScript, Next.js</strong></li>
-      </ul>
-    </td>
-    <td valign="middle" align="right">
-      <img alt="Coding" width="350"
-        src="https://raw.githubusercontent.com/this-onlyYuvraj/this-onlyYuvraj/main/typing%20cat.gif">
-    </td>
-  </tr>
-</table>
+<p><img align="right" alt="Coding" width="350" src="https://raw.githubusercontent.com/this-onlyYuvraj/this-onlyYuvraj/main/typing%20cat.gif"></p>
+<br>
+<br>
+<br clear="left"/>
 
+**<h3 valign="center" align="left">About me<h3/>**
+- 🥀 **JUST LEARNING**
+- 💬 Ask me about (plz don't ask): **React, TypeScript, JavaScript, Next.js**
+<br>
+<br>
+<br>
 
 <br clear="right"/>
 
@@ -35,7 +29,7 @@
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-Any%20century%20now-000000?style=for-the-badge&logo=firefox&logoColor=white)](/)
 
----
+<br>
 
 ## Tech Stack
 
@@ -56,7 +50,7 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=this-onlyyuvraj&show_icons=true&theme=radical" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=this-onlyyuvraj&show_icons=true&theme=radical" width="47%" /><br> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-onlyyuvraj&theme=radical" width="47%" />
 </p>
 
