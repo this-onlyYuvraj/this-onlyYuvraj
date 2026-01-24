@@ -1,9 +1,7 @@
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/fb73eb84-8179-46f9-af75-dc276486dfe1" alt="Typing Cat" />
-</p>
+
 <p align="center">
   <img
-    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=700&center=true&vCenter=true&width=500&lines=Hey+babe!;+I'm+Yuvraj;+Fullstack+Developer"
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=26&color=14E0A6&pause=500&center=true&vCenter=true&width=1000&lines=Hey+babe!;+I'm+Yuvraj;+Fullstack+Developer"
     alt="Typing SVG"
   />
 </p>
