@@ -48,14 +48,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=this-onlyyuvraj&show_icons=true&theme=radical" width="47%" /><br> <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=this-onlyyuvraj&theme=radical" width="47%" />
+    <img src="https://streak-stats.demolab.com?user=this-onlyYuvraj&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
-## Most Used Languages
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=this-onlyyuvraj&layout=compact&theme=radical" width="45%" />
-</p>
