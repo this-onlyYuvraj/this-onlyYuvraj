@@ -48,7 +48,7 @@
 ## GitHub Stats
 
 <p align="center">
-    <img src="https://streak-stats.demolab.com?user=this-onlyYuvraj&theme=buefy-dark&hide_border=true" alt="GitHub Streak" />
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=this-onlyYuvraj&show_icons=true&theme=radical&hide_rank=true" alt="GitHub Streak" />
 </p>
 
 ---
