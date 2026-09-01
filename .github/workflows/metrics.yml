@@ -1,0 +1,40 @@
+name: Update GitHub Metrics
+
+on:
+  schedule:
+    - cron: "0 0 * * *"   # runs daily at midnight UTC
+  workflow_dispatch:        # lets you trigger it manually from the Actions tab
+  push:
+    branches:
+      - main
+
+jobs:
+  metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: github-metrics.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          config_timezone: Asia/Kolkata
+
+          # Core sections
+          base: header, activity, community, repositories, metadata
+
+          # Top languages (replaces the old top-langs card)
+          plugin_languages: yes
+          plugin_languages_analysis_timeout: 15
+          plugin_languages_categories: programming, markup
+          plugin_languages_limit: 8
+          plugin_languages_recent_categories: programming, markup
+          plugin_languages_recent_days: 14
+
+          # Contribution heatmap
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
+
+          # Fun gamified badges (matches the humor-forward vibe)
+          plugin_achievements: yes
+          plugin_achievements_threshold: C
