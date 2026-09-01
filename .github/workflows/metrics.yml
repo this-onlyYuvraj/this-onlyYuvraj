@@ -38,4 +38,4 @@ jobs:
           # Fun gamified badges (matches the humor-forward vibe)
           plugin_achievements: yes
           plugin_achievements_threshold: C
-          plugin_achievements_ignored: manager   # this one hits GitHub's deprecated Projects API — see lowlighter/metrics#1834
+          # plugin_achievements_ignored: manager   # this one hits GitHub's deprecated Projects API — see lowlighter/metrics#1834
