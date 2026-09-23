@@ -7,66 +7,81 @@
 
 </div>
 
-<img align="right" width="320" alt="Coding cat" src="https://raw.githubusercontent.com/this-onlyYuvraj/this-onlyYuvraj/main/typing%20cat.gif">
 
-### About Me
+## 👋 Hi, I'm Yuvraj
 
-- 🥀 **Status:** just learning — please adjust your expectations accordingly
-- 💬 **Ask me about (please don't):** React, TypeScript, JavaScript, Next.js, Kotlin
-- ⚡ **Fun fact:** my code works and I genuinely could not tell you why
+I'm a full-stack developer who works across the whole stack — from frontend interfaces with a UX focus to backend APIs — and I also build native Android apps.
 
-<br clear="right"/>
-
-<div align="left">
-
-
-- 🌱 **Learning**: Android dev with Kotlin, plus system design.
-- 🎯 **2026 goal**: Ship something that doesn't need a README apology.
-- 🐛 **Debug method**: `console.log("here")`, `console.log("here 2")`.
-- ☕ **Fuel**: Coffee, basically an IV drip.
-
-</div>
+**Currently focused on:**
+- 🌐 Shipping full-stack web apps with Next.js, TypeScript & PostgreSQL
+- 📱 Native Android development
+- 🎨 Sharpening UX instincts on every project I ship
 
 ---
 
-## 📫 Let's Connect
+## 🛠️ Active Builds
+
+| Project | Status | Stack | What it does |
+|---|---|---|---|
+| **Dev-Aid** | ✅ shipped | Next.js, Google Gemini API | Developer tool with built-in AI assistance |
+| **Memories** | ✅ shipped | Next.js, PostgreSQL | Geolocation-tagged photo app |
+| **Hidden Bites** | ✅ shipped | Next.js, Google Maps API, Cloudinary | Restaurant discovery platform |
+
+---
+
+## 🐛 Open Issues
+
+| # | Title | Labels |
+|---|---|---|
+| 1 | Can explain what the code does, not *why* it works | `confidence: low` |
+| 2 | Primary debugging strategy is `console.log("here")`, `console.log("here 2")` | `needs-improvement` |
+| 3 | ~~README hasn't been touched in a while~~ | `wontfix` → **closed**, fixed right now |
+
+---
+
+## ⚙️ Tech Stack
+
+| Category | Technologies |
+|---|---|
+| **Languages** | <img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,kotlin" /> |
+| **Frontend** | <img src="https://skillicons.dev/icons?i=react,nextjs,html,css" /> |
+| **Mobile** | <img src="https://skillicons.dev/icons?i=kotlin,androidstudio" /> |
+| **Backend** | <img src="https://skillicons.dev/icons?i=nodejs,express,prisma" /> |
+| **Database** | <img src="https://skillicons.dev/icons?i=postgresql,mysql,mongodb" /> |
+| **Tools** | <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel" /> |
+
+---
+
+## 🌱 Currently Learning
+
+- System Design
+- Android Development
+- How to live life
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+<img height="165" src="https://streak-stats.demolab.com/?user=this-onlyYuvraj&theme=tokyonight&hide_border=true&background=00000000" />
+</div>
+
+
+---
+
+## 📡 Connect
+
+<div align="center">
 
 [![Email](https://img.shields.io/badge/Email-this.is.onlyyuvraj%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:this.is.onlyyuvraj@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Yuvraj-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/dev-yuvraj/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-Any%20century%20now-000000?style=for-the-badge&logo=firefox&logoColor=white)](/)
 
----
-
-## 🧰 Tech Stack
-
-**Languages**
-<br>
-<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,kotlin" />
-
-**Frameworks**
-<br>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,nextjs" />
-
-**Databases**
-<br>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql" />
-
-**Tools**
-<br>
-<img src="https://skillicons.dev/icons?i=vscode,androidstudio,git,github,wordpress" />
-
----
-
-## 📊 GitHub Metrics
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/this-onlyYuvraj/this-onlyYuvraj/main/github-metrics.svg" alt="GitHub Metrics dashboard" style="max-width:100%;"/>
-
 </div>
 
-<div align="center">
+```bash
+$ echo "thanks for reading this far"
+thanks for reading this far
 
-*If something's broken, it's not a bug — it's a feature I haven't documented yet.*
-
-</div>
+$ exit
+```
